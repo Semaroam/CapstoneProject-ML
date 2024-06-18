@@ -1,6 +1,6 @@
 # Semaroam ML
 
-<h2>A machine learning model build with ALBERT Embedding, CNN Classifier, and POS NER to Recommends Items</h2>
+<h2>A machine learning model build with ALBERT Embedding, CNN Classifier, and POS NER to Recommend Items</h2>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2024 Batch 1. Our team consist of 3 people from Machine Learning Path.
 
 All of the project management we take a place with Github repository, to distinguish each path we create a different repository.</p>
@@ -23,8 +23,6 @@ In this project, we create machine learning that is used to recommendation syste
 - TF-IDF for vectorizer
 - Cosine similarity for similarity matching
 
-## Notebook
-- 
 
 
 
